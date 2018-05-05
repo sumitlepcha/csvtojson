@@ -1,6 +1,6 @@
 import csv
 
-filereader = open("IB_Fraud_R01.csv")
+filereader = open("Column Header.csv")
 
 readfile = csv.reader(filereader)
 rows = list(readfile)
