@@ -1,7 +1,7 @@
-eventtype,nft,ft,nft,nft
-eventsubtype,ibaccountLockout,ibaccountLockout,ibaccountLockout,ibaccountLockout
+eventtype,AB,AB,ABC,BCD
+eventsubtype,ibact,ibaut,iuntLout,ibut
 eventid,12345,12346,12347,12348
-event-name,nft_ibaccountlockout,ft_tran,nft_ibaccountlockout,nft_ibaccountlockout
+ename,nft_ibakout,ft_tn,nfout,nfut
 source,ib,ib,ib,ib
 eventts,27-07-2015 12:24:51.151,27-07-2015 14:24:51.151,27-07-2015 15:24:51.151,28-07-2015 12:24:51.151
 msgBody,,,,
